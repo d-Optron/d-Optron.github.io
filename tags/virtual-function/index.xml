@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>virtual function on Clarity</title>
+    <link>/tags/virtual-function/</link>
+    <description>Recent content in virtual function on Clarity</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
+    <lastBuildDate>Sat, 12 Sep 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/virtual-function/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The C&#43;&#43; Virtual function table </title>
+      <link>/post/vtable_cxx/vtable_cxx/</link>
+      <pubDate>Sat, 12 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/vtable_cxx/vtable_cxx/</guid>
+      <description>In C++ and other language like java, there is a feature call Polymorphism
+What&amp;rsquo;s virtual table  A virtual method table (VMT), virtual function table, virtual call table, dispatch table, vtable, or vftable is a mechanism used in a programming language to support dynamic dispatch (or run-time method binding). Whenever a class defines a virtual function (or method), most compilers add a hidden member variable to the class that points to an array of pointers to (virtual) functions called the virtual method table.</description>
+    </item>
+    
+  </channel>
+</rss>
